@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I like Warhammer 40K
 
 
-[![facebook-iconAndLink]][1.1][1]
+![facebook-iconAndLink]][1.1][1]
 ![linkedin-iconAndLink][2.1][2]
 
 <!-- links to social media icons -->
