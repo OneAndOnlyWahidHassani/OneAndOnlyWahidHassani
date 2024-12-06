@@ -1,4 +1,4 @@
-# Welcome to Wahid Hassanis github
+# Welcome to Wahids page!
 
 ### Little info about me ℹ
 - 👋 Hi, I’m @OneAndOnlyWahidHassani
@@ -23,15 +23,7 @@
 
 ### Socials 🌐
 
-[![facebook-iconAndLink][1.1]][1]
-[![linkedin-iconAndLink][2.1]][2]
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/ditt-användarnamn](https://www.facebook.com/Thecoolguywhern/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/din-profil/](https://www.linkedin.com/in/wahid-hassani-wh))
 
-<!-- links to social media icons -->
 
-[1.1]: https://github.com/user-attachments/assets/5657c86c-1f2e-4349-aae7-6cd9cde1450e
-[2.1]: https://github.com/user-attachments/assets/0d492b98-4d8e-4b44-95ba-c48707419529
-
-<!-- links to my social media accounts -->
-
-[1]: https://www.facebook.com/Thecoolguywhern/
-[2]: https://www.linkedin.com/in/wahid-hassani-wh
