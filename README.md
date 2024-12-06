@@ -1,6 +1,9 @@
 # Welcome to Wahids page!
 
+
 ### Little info about me ℹ
+
+
 - 👋 Hi, I’m @OneAndOnlyWahidHassani
 - 👀 I’m interested in solving problems and needs.
 - 🚀 I’m currently learning software developing
@@ -8,6 +11,7 @@
 - 🌍 Based in Sweden, Malmo
 
 ### What I've Learned so far 🚀
+
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -22,6 +26,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ### Socials 🌐
+
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Thecoolguywhern/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahid-hassani-wh)
