@@ -11,7 +11,8 @@
 <!-- links to social media icons -->
 
 [1.1]: https://github.com/user-attachments/assets/5657c86c-1f2e-4349-aae7-6cd9cde1450e
-[2.1]: https://github.com/user-attachments/assets/4c244cda-fac5-4c36-817c-608b138bb4be
+[2.1]: https://github.com/user-attachments/assets/f3a2e7af-f513-44f8-b334-eda14ea9c38b
+
 
 
 
