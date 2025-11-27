@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)
+![C#](https://img.shields.io/badge/-C%20#-333333?style=flat&logo=c#)
 
 ## 📈 GitHub Stats
 
