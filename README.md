@@ -36,7 +36,21 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)
-![C#](https://img.shields.io/badge/-C%20#-333333?style=flat&logo=c#)
+![C#](https://img.shields.io/badge/C%23-333333?style-flat&logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=dotnet)
+![C](https://img.shields.io/badge/C-333333?style=flat&logo=c)
+![nuxt](https://img.shields.io/badge/Nuxt-333333?style=flat&logo=nuxtdotjs)
+![llamacpp](https://img.shields.io/badge/llama.cpp-333333?style=flat&logo=llamacpp)
+![Assembler](https://img.shields.io/badge/Assembler-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTcgMTBjLTEuMSAwLTIgLjktMiAydjJjMCAxLjEgLjkgMiAyIDJoMTBjMS4xIDAgMi0uOSAyLTJ2LTJjMC0xLjEtLjktMi0yLTJIMzdDMTggNiAxNSAyIDEyIDJoNDhjMy4zOCAwIDYtMi42MiA2LTZWMjBjMCAzLjM4LTIuNjIgNi02IDZIMjRjLTMuMzggMC02LTIuNjItNi02di00YzAtMS4xLS45LTIuMi0yLTJIMzdNOCAyMGgydi00aDR2NGgydjJoLThWMjBabTMtMTBoMnY0aC0ydjRjLS41NSAwLTEgLjQ1LTEgMXYtNWMwLS41NS40NS0xIDEtMXpNMTIgMjBoMnY0aC0yVjIweiIvPjxwYXRoIGZpbGw9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiLz48L3N2Zz4=)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Windows Forms Presentation](https://img.shields.io/badge/Windows_Forms_Presentation-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+
+
+
+
 
 ## 📈 GitHub Stats
 
