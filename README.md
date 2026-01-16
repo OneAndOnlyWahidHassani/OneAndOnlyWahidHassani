@@ -1,6 +1,6 @@
 # Hi there, I'm Wahid Hassani 👋
 
-![Header](./github-header-image1.png)
+![Header](./ReadmeBanner.png)
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to create and contribute to projects involving anything I find interesting.
 
