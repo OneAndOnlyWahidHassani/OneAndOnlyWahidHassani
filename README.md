@@ -117,8 +117,8 @@ The MoE model was more energy efficient in all 30 paired runs: up to **43% more 
       <img src="https://img.shields.io/badge/GitHub_Actions-1b1733?style=flat-square&logo=githubactions&logoColor=2088FF" />
     </td>
     <td width="50%" valign="top">
-      <h3>wahidassistant</h3>
-      <p>A web assistant built in a team of four, with a Java backend that scrapes and matches data, user login over HTTPS and a containerised deployment with Docker.</p>
+      <h3>YourAssistant</h3>
+      <p>A scheduling web assistant built in a team of four, with a Java backend that scrapes and matches data, user login over HTTPS and a containerised deployment with Docker.</p>
       <img src="https://img.shields.io/badge/Java-1b1733?style=flat-square&logo=openjdk&logoColor=ED8B00" />
       <img src="https://img.shields.io/badge/JavaScript-1b1733?style=flat-square&logo=javascript&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/Maven-1b1733?style=flat-square&logo=apachemaven&logoColor=C71A36" />
